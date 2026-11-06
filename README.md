@@ -1,127 +1,85 @@
 <!--
-  GitHub Profile README — ShahRiarKhan55
-  Theme: midnight / electric blue / research + engineering
+  SCIENTIFIC ATLAS — GitHub profile README
+  Replace the social links below if your handles differ.
+  Put this README.md in the repository named exactly: ShahRiarKhan55
 -->
 
 <div align="center">
+  <img src="assets/atlas-header.svg" alt="K. M. Shahriar Alam Adib — Researcher, Engineer, Technology Builder" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:142B4F,100:2563EB&height=210&section=header&text=K.%20M.%20Shahriar%20Alam%20Adib&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Researcher%20%7C%20Software%20Engineer%20%7C%20Builder&descAlignY=66&descSize=17" width="100%" alt="Profile banner" />
-
-<a href="https://github.com/ShahRiarKhan55"><img src="https://komarev.com/ghpvc/?username=ShahRiarKhan55&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://github.com/ShahRiarKhan55?tab=followers"><img src="https://img.shields.io/github/followers/ShahRiarKhan55?style=for-the-badge&color=0EA5E9&labelColor=0B1020" alt="Followers" /></a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/kmshahriaralamadib/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/ShahRiarKhan55"><img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/kmshahriaralamadib/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ShahRiarKhan55">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / About
 
-I'm a Master's student in **Information System Design and Data Science** at **Shimane University, Japan**, working at the intersection of hardware reliability, machine learning, and software engineering.
+I’m a Master’s student in **Information System Design and Data Science** at **Shimane University, Japan**. My interests sit at the intersection of machine learning, semiconductor reliability, FPGA testing, and practical software engineering.
 
-- 🔬 **Research:** FPGA aging detection, semiconductor testing, and data-driven reliability analysis
-- 🧠 **Research methods:** Gaussian Process Regression (GPR), unsupervised learning, enhanced sampling
-- ⚡ **Hardware:** FPGA / Zybo Z7 / Verilog
-- 🛠️ **Building:** useful web applications, developer tools, and AI-assisted workflows
-- 🌏 **Based in:** Japan · Originally from Bangladesh
-- 📚 **Current focus:** research, robust engineering, and continuous learning
+My current research explores **unsupervised FPGA aging detection**, with a focus on Gaussian Process Regression and adaptive sampling. Alongside research, I build software tools and experiment with AI-assisted systems.
 
-> I enjoy turning complex technical ideas into practical systems—and exploring how machine learning can make hardware more reliable.
+**Research the unknown. Engineer what’s next.**
 
-## 🚀 Featured Projects
+## 02 / Research desk
 
-<table>
-<tr>
-<td width="50%">
-<h3><a href="https://github.com/ShahRiarKhan55/Toolora">🧰 Toolora</a></h3>
-A growing collection of practical online utilities, designed around a clean and accessible user experience.
-<br/><br/>
-<code>TypeScript</code> <code>React</code> <code>Web Tools</code>
-</td>
-<td width="50%">
-<h3><a href="https://github.com/ShahRiarKhan55/JapaneseLearningApp">🇯🇵 JapaneseLearningApp</a></h3>
-A Japanese learning platform supporting structured study and practice.
-<br/><br/>
-<code>Learning Platform</code> <code>Web Development</code>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3><a href="https://github.com/ShahRiarKhan55/hybrid_svss_asde">🔬 FPGA Aging Detection Research</a></h3>
-Research on hybrid enhanced sampling for Gaussian Process Regression-based FPGA aging detection using similarity-variance and adaptive spatial sampling.
-<br/><br/>
-<code>FPGA</code> <code>GPR</code> <code>Verilog</code> <code>ML</code>
-</td>
-<td width="50%">
-<h3><a href="https://github.com/ShahRiarKhan55">🤖 AI & Engineering</a></h3>
-Experiments and projects spanning software development, local AI, automation, and engineering workflows.
-<br/><br/>
-<code>Python</code> <code>AI</code> <code>Automation</code>
-</td>
-</tr>
-</table>
+**FPGA aging detection**  
+Unsupervised detection using Gaussian Process Regression (GPR), similarity–variance analysis, and adaptive spatial sampling.
 
-## 🧪 Research & Publication
+**Research interests**
 
-**FPGA Aging Detection with Gaussian Process Regression**
-
-Research interests:
-- Unsupervised FPGA aging detection
-- Similarity-variance and adaptive spatial sampling
+- FPGA aging and semiconductor reliability
+- Machine learning for hardware testing
 - Gaussian Process Regression
-- Semiconductor reliability and VLSI testing
+- VLSI testing and data-driven analysis
 
-📄 *“A hybrid enhanced sampling for Gaussian Process Regression based FPGA Aging detection by similarity-variance and adaptive spatial sampling.”*
+**Publication**  
+*A hybrid enhanced sampling for Gaussian Process Regression based FPGA Aging detection by similarity-variance and adaptive spatial sampling* — accepted; second author. Add the DOI or publication URL here when available.
 
-## 🧰 Technology Stack
+## 03 / Selected builds
+
+| Project | What it is | Link |
+|---|---|---|
+| **Toolora** | A collection of practical web tools and utilities | [Explore](https://github.com/ShahRiarKhan55/Toolora) |
+| **JapaneseLearningApp** | A Japanese-learning application | [Explore](https://github.com/ShahRiarKhan55/JapaneseLearningApp) |
+| **OpenTerminal-AI** | A customized AI terminal project | [Explore](https://github.com/ShahRiarKhan55/OpenTerminal-AI) |
+| **FPGA aging research** | Research code and experiments for FPGA aging detection | [Explore](https://github.com/ShahRiarKhan55/hybrid_svss_asde) |
+
+*Project names and repository links are based on the repositories discussed; remove or correct any link that is not public.*
+
+## 04 / Technical toolkit
 
 <div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,verilog,c,java,html,css&theme=dark" alt="Languages" />
-
-### Development & Data
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,mongodb,mysql,figma,vscode&theme=dark" alt="Development tools" />
-
-### Research & Platforms
-<img src="https://skillicons.dev/icons?i=linux,arduino,anaconda&theme=dark" alt="Research platforms" />
-
+  <img src="https://skillicons.dev/icons?i=python,verilog,typescript,javascript,react,nodejs,git,github,linux,vscode&theme=light" alt="Python, Verilog, TypeScript, JavaScript, React, Node.js, Git, GitHub, Linux, VS Code" />
 </div>
 
-## 📊 GitHub at a Glance
+**Focus areas:** Python · Verilog · FPGA · Machine Learning · Data Science · Web Development · Git
+
+## 05 / GitHub activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShahRiarKhan55&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahRiarKhan55&layout=compact&hide_border=true&bg_color=0B1020&title_color=60A5FA&text_color=CBD5E1" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ShahRiarKhan55&hide_border=true&background=0B1020&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahRiarKhan55&bg_color=0B1020&color=CBD5E1&line=3B82F6&point=38BDF8&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShahRiarKhan55&show_icons=true&hide_border=true&bg_color=F2EBDD&title_color=202923&text_color=526052&icon_color=C45A3A" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahRiarKhan55&layout=compact&hide_border=true&bg_color=F2EBDD&title_color=202923&text_color=526052" alt="Most used languages" />
 </div>
 
-## 🤝 Let's Connect
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShahRiarKhan55&hide_border=true&background=F2EBDD&ring=C45A3A&fire=C45A3A&currStreakLabel=202923&sideLabels=526052&currStreakNum=202923&sideNums=202923&dates=87917A" alt="GitHub contribution streak" />
+</div>
 
-I'm always happy to connect with researchers, developers, and people building interesting things.
+## 06 / Elsewhere
+
+- **LinkedIn:** [linkedin.com/in/kmshahriaralamadib](https://www.linkedin.com/in/kmshahriaralamadib/)
+- **GitHub:** [github.com/ShahRiarKhan55](https://github.com/ShahRiarKhan55)
+- **Email:** `YOUR_EMAIL@example.com` — replace with your preferred public contact address.
+
+---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/kmshahriaralamadib/"><img src="https://img.shields.io/badge/LinkedIn-K.M.%20Shahriar%20Alam%20Adib-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-<a href="https://github.com/ShahRiarKhan55"><img src="https://img.shields.io/badge/GitHub-ShahRiarKhan55-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-
-<br/><br/>
-
-<em>“Build with curiosity. Research with rigor. Improve every day.”</em>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:142B4F,100:0B1020&height=70&section=footer" width="100%" alt="Footer" />
-
+  <sub>FIELD NOTES / SHIMANE, JAPAN</sub><br />
+  <strong>RESEARCHER&nbsp; × &nbsp;ENGINEER&nbsp; × &nbsp;TECHNOLOGY BUILDER</strong>
 </div>

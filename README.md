@@ -1,92 +1,127 @@
-<div align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Shahriar Alam Adib — Research Engineer" />
-</div>
+<!--
+  GitHub Profile README — ShahRiarKhan55
+  Theme: midnight / electric blue / research + engineering
+-->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kmshahriaralamadib/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/ShahRiarKhan55">GitHub</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:142B4F,100:2563EB&height=210&section=header&text=K.%20M.%20Shahriar%20Alam%20Adib&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Researcher%20%7C%20Software%20Engineer%20%7C%20Builder&descAlignY=66&descSize=17" width="100%" alt="Profile banner" />
+
+<a href="https://github.com/ShahRiarKhan55"><img src="https://komarev.com/ghpvc/?username=ShahRiarKhan55&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/ShahRiarKhan55?tab=followers"><img src="https://img.shields.io/github/followers/ShahRiarKhan55?style=for-the-badge&color=0EA5E9&labelColor=0B1020" alt="Followers" /></a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/kmshahriaralamadib/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ShahRiarKhan55"><img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
-
-<br />
-
-## PROFILE / 01
-
-I’m **K. M. Shahriar Alam Adib**, a Master’s student in **Information System Design and Data Science** at **Shimane University, Japan**.
-
-My work sits between **hardware reliability, machine learning, and software engineering**. My primary research explores unsupervised FPGA aging detection using Gaussian Process Regression and adaptive sampling methods. Alongside research, I build practical software and developer-focused applications.
-
-`RESEARCH` &nbsp; `ENGINEERING` &nbsp; `BUILDING`
 
 ---
 
-## RESEARCH / 02
+## 👨‍💻 About Me
 
-### FPGA aging detection
+I'm a Master's student in **Information System Design and Data Science** at **Shimane University, Japan**, working at the intersection of hardware reliability, machine learning, and software engineering.
 
-Investigating data-driven approaches to identify aging-related changes in FPGA devices.
+- 🔬 **Research:** FPGA aging detection, semiconductor testing, and data-driven reliability analysis
+- 🧠 **Research methods:** Gaussian Process Regression (GPR), unsupervised learning, enhanced sampling
+- ⚡ **Hardware:** FPGA / Zybo Z7 / Verilog
+- 🛠️ **Building:** useful web applications, developer tools, and AI-assisted workflows
+- 🌏 **Based in:** Japan · Originally from Bangladesh
+- 📚 **Current focus:** research, robust engineering, and continuous learning
 
-- Gaussian Process Regression (GPR)
-- Similarity–variance analysis
-- Adaptive spatial sampling
-- FPGA characterization and reliability
-- Machine learning for hardware testing
+> I enjoy turning complex technical ideas into practical systems—and exploring how machine learning can make hardware more reliable.
 
-**Publication**  
-*A hybrid enhanced sampling for Gaussian Process Regression based FPGA Aging detection by similarity-variance and adaptive spatial sampling.*  
-Accepted · Second author
-
----
-
-## SELECTED WORK / 03
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 / TOOLORA</strong><br />
-      <a href="https://github.com/ShahRiarKhan55/Toolora">Practical web utilities</a><br />
-      A collection of useful online tools, built with an emphasis on straightforward workflows and usability.
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 / JAPANESE LEARNING APP</strong><br />
-      <a href="https://github.com/ShahRiarKhan55/JapaneseLearningApp">Language-learning platform</a><br />
-      A structured application for Japanese vocabulary, grammar, and skills practice.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 / FPGA RESEARCH</strong><br />
-      <a href="https://github.com/ShahRiarKhan55/hybrid_svss_asde">Aging detection research</a><br />
-      Research implementation related to hybrid enhanced sampling and FPGA aging detection.
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 / MORE EXPERIMENTS</strong><br />
-      <a href="https://github.com/ShahRiarKhan55?tab=repositories">Explore repositories</a><br />
-      Further experiments, tools, and engineering work from my GitHub.
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<h3><a href="https://github.com/ShahRiarKhan55/Toolora">🧰 Toolora</a></h3>
+A growing collection of practical online utilities, designed around a clean and accessible user experience.
+<br/><br/>
+<code>TypeScript</code> <code>React</code> <code>Web Tools</code>
+</td>
+<td width="50%">
+<h3><a href="https://github.com/ShahRiarKhan55/JapaneseLearningApp">🇯🇵 JapaneseLearningApp</a></h3>
+A Japanese learning platform supporting structured study and practice.
+<br/><br/>
+<code>Learning Platform</code> <code>Web Development</code>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3><a href="https://github.com/ShahRiarKhan55/hybrid_svss_asde">🔬 FPGA Aging Detection Research</a></h3>
+Research on hybrid enhanced sampling for Gaussian Process Regression-based FPGA aging detection using similarity-variance and adaptive spatial sampling.
+<br/><br/>
+<code>FPGA</code> <code>GPR</code> <code>Verilog</code> <code>ML</code>
+</td>
+<td width="50%">
+<h3><a href="https://github.com/ShahRiarKhan55">🤖 AI & Engineering</a></h3>
+Experiments and projects spanning software development, local AI, automation, and engineering workflows.
+<br/><br/>
+<code>Python</code> <code>AI</code> <code>Automation</code>
+</td>
+</tr>
 </table>
 
----
+## 🧪 Research & Publication
 
-## TOOLKIT / 04
+**FPGA Aging Detection with Gaussian Process Regression**
+
+Research interests:
+- Unsupervised FPGA aging detection
+- Similarity-variance and adaptive spatial sampling
+- Gaussian Process Regression
+- Semiconductor reliability and VLSI testing
+
+📄 *“A hybrid enhanced sampling for Gaussian Process Regression based FPGA Aging detection by similarity-variance and adaptive spatial sampling.”*
+
+## 🧰 Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,verilog,typescript,javascript,react,nodejs,git,github,vscode&theme=dark" alt="Python, Verilog, TypeScript, JavaScript, React, Node.js, Git, GitHub, and VS Code" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,verilog,c,java,html,css&theme=dark" alt="Languages" />
+
+### Development & Data
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,mongodb,mysql,figma,vscode&theme=dark" alt="Development tools" />
+
+### Research & Platforms
+<img src="https://skillicons.dev/icons?i=linux,arduino,anaconda&theme=dark" alt="Research platforms" />
+
 </div>
 
-**Areas:** FPGA · Machine Learning · Data Science · Semiconductor Reliability · Web Development · Software Engineering
-
----
-
-## CURRENT DIRECTION / 05
-
-- Developing research methods for FPGA aging detection.
-- Exploring machine learning for semiconductor and hardware reliability.
-- Building useful software applications and engineering tools.
-
----
+## 📊 GitHub at a Glance
 
 <div align="center">
-  <sub>SHIMANE, JAPAN &nbsp; / &nbsp; OPEN TO THOUGHTFUL TECHNICAL CONNECTIONS</sub>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShahRiarKhan55&show_icons=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahRiarKhan55&layout=compact&hide_border=true&bg_color=0B1020&title_color=60A5FA&text_color=CBD5E1" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ShahRiarKhan55&hide_border=true&background=0B1020&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahRiarKhan55&bg_color=0B1020&color=CBD5E1&line=3B82F6&point=38BDF8&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with researchers, developers, and people building interesting things.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kmshahriaralamadib/"><img src="https://img.shields.io/badge/LinkedIn-K.M.%20Shahriar%20Alam%20Adib-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://github.com/ShahRiarKhan55"><img src="https://img.shields.io/badge/GitHub-ShahRiarKhan55-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+
+<br/><br/>
+
+<em>“Build with curiosity. Research with rigor. Improve every day.”</em>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:142B4F,100:0B1020&height=70&section=footer" width="100%" alt="Footer" />
+
 </div>

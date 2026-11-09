@@ -1,85 +1,92 @@
-<!--
-  SCIENTIFIC ATLAS — GitHub profile README
-  Replace the social links below if your handles differ.
-  Put this README.md in the repository named exactly: ShahRiarKhan55
--->
-
 <div align="center">
-  <img src="assets/atlas-header.svg" alt="K. M. Shahriar Alam Adib — Researcher, Engineer, Technology Builder" width="100%" />
+  <img src="assets/profile-header.svg" width="100%" alt="Shahriar Alam Adib — Research Engineer" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kmshahriaralamadib/">LinkedIn</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/ShahRiarKhan55">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
 </div>
+
+<br />
+
+## PROFILE / 01
+
+I’m **K. M. Shahriar Alam Adib**, a Master’s student in **Information System Design and Data Science** at **Shimane University, Japan**.
+
+My work sits between **hardware reliability, machine learning, and software engineering**. My primary research explores unsupervised FPGA aging detection using Gaussian Process Regression and adaptive sampling methods. Alongside research, I build practical software and developer-focused applications.
+
+`RESEARCH` &nbsp; `ENGINEERING` &nbsp; `BUILDING`
 
 ---
 
-## 01 / About
+## RESEARCH / 02
 
-I’m a Master’s student in **Information System Design and Data Science** at **Shimane University, Japan**. My interests sit at the intersection of machine learning, semiconductor reliability, FPGA testing, and practical software engineering.
+### FPGA aging detection
 
-My current research explores **unsupervised FPGA aging detection**, with a focus on Gaussian Process Regression and adaptive sampling. Alongside research, I build software tools and experiment with AI-assisted systems.
+Investigating data-driven approaches to identify aging-related changes in FPGA devices.
 
-**Research the unknown. Engineer what’s next.**
-
-## 02 / Research desk
-
-**FPGA aging detection**  
-Unsupervised detection using Gaussian Process Regression (GPR), similarity–variance analysis, and adaptive spatial sampling.
-
-**Research interests**
-
-- FPGA aging and semiconductor reliability
+- Gaussian Process Regression (GPR)
+- Similarity–variance analysis
+- Adaptive spatial sampling
+- FPGA characterization and reliability
 - Machine learning for hardware testing
-- Gaussian Process Regression
-- VLSI testing and data-driven analysis
 
 **Publication**  
-*A hybrid enhanced sampling for Gaussian Process Regression based FPGA Aging detection by similarity-variance and adaptive spatial sampling* — accepted; second author. Add the DOI or publication URL here when available.
+*A hybrid enhanced sampling for Gaussian Process Regression based FPGA Aging detection by similarity-variance and adaptive spatial sampling.*  
+Accepted · Second author
 
-## 03 / Selected builds
+---
 
-| Project | What it is | Link |
-|---|---|---|
-| **Toolora** | A collection of practical web tools and utilities | [Explore](https://github.com/ShahRiarKhan55/Toolora) |
-| **JapaneseLearningApp** | A Japanese-learning application | [Explore](https://github.com/ShahRiarKhan55/JapaneseLearningApp) |
-| **OpenTerminal-AI** | A customized AI terminal project | [Explore](https://github.com/ShahRiarKhan55/OpenTerminal-AI) |
-| **FPGA aging research** | Research code and experiments for FPGA aging detection | [Explore](https://github.com/ShahRiarKhan55/hybrid_svss_asde) |
+## SELECTED WORK / 03
 
-*Project names and repository links are based on the repositories discussed; remove or correct any link that is not public.*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / TOOLORA</strong><br />
+      <a href="https://github.com/ShahRiarKhan55/Toolora">Practical web utilities</a><br />
+      A collection of useful online tools, built with an emphasis on straightforward workflows and usability.
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / JAPANESE LEARNING APP</strong><br />
+      <a href="https://github.com/ShahRiarKhan55/JapaneseLearningApp">Language-learning platform</a><br />
+      A structured application for Japanese vocabulary, grammar, and skills practice.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / FPGA RESEARCH</strong><br />
+      <a href="https://github.com/ShahRiarKhan55/hybrid_svss_asde">Aging detection research</a><br />
+      Research implementation related to hybrid enhanced sampling and FPGA aging detection.
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 / MORE EXPERIMENTS</strong><br />
+      <a href="https://github.com/ShahRiarKhan55?tab=repositories">Explore repositories</a><br />
+      Further experiments, tools, and engineering work from my GitHub.
+    </td>
+  </tr>
+</table>
 
-## 04 / Technical toolkit
+---
+
+## TOOLKIT / 04
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,verilog,typescript,javascript,react,nodejs,git,github,linux,vscode&theme=light" alt="Python, Verilog, TypeScript, JavaScript, React, Node.js, Git, GitHub, Linux, VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,verilog,typescript,javascript,react,nodejs,git,github,vscode&theme=dark" alt="Python, Verilog, TypeScript, JavaScript, React, Node.js, Git, GitHub, and VS Code" />
 </div>
 
-**Focus areas:** Python · Verilog · FPGA · Machine Learning · Data Science · Web Development · Git
+**Areas:** FPGA · Machine Learning · Data Science · Semiconductor Reliability · Web Development · Software Engineering
 
-## 05 / GitHub activity
+---
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShahRiarKhan55&show_icons=true&hide_border=true&bg_color=F2EBDD&title_color=202923&text_color=526052&icon_color=C45A3A" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahRiarKhan55&layout=compact&hide_border=true&bg_color=F2EBDD&title_color=202923&text_color=526052" alt="Most used languages" />
-</div>
+## CURRENT DIRECTION / 05
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShahRiarKhan55&hide_border=true&background=F2EBDD&ring=C45A3A&fire=C45A3A&currStreakLabel=202923&sideLabels=526052&currStreakNum=202923&sideNums=202923&dates=87917A" alt="GitHub contribution streak" />
-</div>
-
-## 06 / Elsewhere
-
-- **LinkedIn:** [linkedin.com/in/kmshahriaralamadib](https://www.linkedin.com/in/kmshahriaralamadib/)
-- **GitHub:** [github.com/ShahRiarKhan55](https://github.com/ShahRiarKhan55)
-- **Email:** `YOUR_EMAIL@example.com` — replace with your preferred public contact address.
+- Developing research methods for FPGA aging detection.
+- Exploring machine learning for semiconductor and hardware reliability.
+- Building useful software applications and engineering tools.
 
 ---
 
 <div align="center">
-  <sub>FIELD NOTES / SHIMANE, JAPAN</sub><br />
-  <strong>RESEARCHER&nbsp; × &nbsp;ENGINEER&nbsp; × &nbsp;TECHNOLOGY BUILDER</strong>
+  <sub>SHIMANE, JAPAN &nbsp; / &nbsp; OPEN TO THOUGHTFUL TECHNICAL CONNECTIONS</sub>
 </div>
